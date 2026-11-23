@@ -1,0 +1,342 @@
+[
+  {
+    "path": "howto/a-conceptual-overview-of-asyncio.txt",
+    "sha256": "4c5d812150c033af6f60cb55a8e4c58e6f6dcfd3c9d4fec7de2b2fb95632a6dc"
+  },
+  {
+    "path": "howto/abi3t-migration.txt",
+    "sha256": "b679cfdd4a3cc88b4a4aec95d1a2192f9abe5b51951c849eee57abb4c8e29669"
+  },
+  {
+    "path": "howto/annotations.txt",
+    "sha256": "a93757ff5c94f3a85ec28e22e2a742418f7afe380140d01053579fb462c586a6"
+  },
+  {
+    "path": "howto/argparse-optparse.txt",
+    "sha256": "dfa7b37295e9ce3a4cf46b82e0b3a26976b7e84cd8ab9bbf62322603e35a49ca"
+  },
+  {
+    "path": "howto/argparse.txt",
+    "sha256": "808ef13e9035bbfb6a29abd0886d6f930856f5febd013c3e1f9d4d05c2971d67"
+  },
+  {
+    "path": "howto/clinic.txt",
+    "sha256": "68d6e5fc58404e5db575232d0d0e0dae97d729db4e8a86eeafefc1648c32d570"
+  },
+  {
+    "path": "howto/cporting.txt",
+    "sha256": "ee46c6f85311e92aad5de156202a05b19ef3cb6bd0e9a297e0465af2076c39fd"
+  },
+  {
+    "path": "howto/curses.txt",
+    "sha256": "3bc42f31685aabbe20c7efb6ea8a7824583e047ec23bf3d495ca990019cad866"
+  },
+  {
+    "path": "howto/descriptor.txt",
+    "sha256": "e34f5e46c4f565acf72743de95490fa96572be8c3ce146c93f48f36b838752bc"
+  },
+  {
+    "path": "howto/enum.txt",
+    "sha256": "9568e8b7457141282e7073b397bc61f4c9ddf99f3be128336178f529ef137f57"
+  },
+  {
+    "path": "howto/free-threading-extensions.txt",
+    "sha256": "79e3316bef25458a6e471f3f642fe90514a6884cf77d3f3b65fe775f490e12e9"
+  },
+  {
+    "path": "howto/free-threading-python.txt",
+    "sha256": "1cf1b1ff4a5c5ce34d2da6f0f93361810700d97d87024cfa9afe97f33737c105"
+  },
+  {
+    "path": "howto/functional.txt",
+    "sha256": "f75014f257aef6940a9bac01aa065dfd55619e23cbf9982fc209f7a203a2eed5"
+  },
+  {
+    "path": "howto/gdb_helpers.txt",
+    "sha256": "632c23bca70f6f6238c9ae831359ad8e8e0d091ddd59172356b28a0c7ed0a27b"
+  },
+  {
+    "path": "howto/index.txt",
+    "sha256": "a015565afd3c41bda5e8c63c84c059b48736b24a928d8fa81e37f1f1ba364f21"
+  },
+  {
+    "path": "howto/instrumentation.txt",
+    "sha256": "2bdbab9b085f353bd5d83e696ab582ac50fec70640b09ef7b01777fa90815735"
+  },
+  {
+    "path": "howto/ipaddress.txt",
+    "sha256": "b263807ae3fe3969478f109248ecc6c0c7ec7a3facbdc6b8852e27161d625a8c"
+  },
+  {
+    "path": "howto/isolating-extensions.txt",
+    "sha256": "19fc5da139da40752fcc226bea65f5a8d10f51cf2a25c04c9516b374672926aa"
+  },
+  {
+    "path": "howto/logging-cookbook.txt",
+    "sha256": "611acdd30f5b2f24b92e109d8ada062d7cda49f2c5234c38e42e191f24047996"
+  },
+  {
+    "path": "howto/logging.txt",
+    "sha256": "6ddd7cddd4a2ae2558466af00a0ba942b21fb897570385cfe421bf0e0c615bd9"
+  },
+  {
+    "path": "howto/mro.txt",
+    "sha256": "c8114d271161d47ce64875f6b581043c5f93f483aabd1a3d2b35a2be27d9d8a5"
+  },
+  {
+    "path": "howto/perf_profiling.txt",
+    "sha256": "081c64e86be4e1ac067bbc0b1bfdc1ea96647f38c04b17f3eae8060e314cd0df"
+  },
+  {
+    "path": "howto/pyporting.txt",
+    "sha256": "973e1414feaa0bc5f03a1e74a21f81ca79fed8d80177068a80b463e44b03ceaa"
+  },
+  {
+    "path": "howto/regex.txt",
+    "sha256": "69aedee0e99cfd79029e4d160389bdff8e3aa3648d48c4b0f00e979685b2ce29"
+  },
+  {
+    "path": "howto/remote_debugging.txt",
+    "sha256": "f732210b63a93b37a7a742ba8302d3db07312d56bcbd0b7dc949271d38d0ef07"
+  },
+  {
+    "path": "howto/sockets.txt",
+    "sha256": "25e685c9f5cd39e427954f9b9762ebc65e34d1f47fe6965335a09f8aa75b7f85"
+  },
+  {
+    "path": "howto/sorting.txt",
+    "sha256": "cc293f958b13b557283255b958b37e2aff44fe10e9f518f65cb582d3b29151ff"
+  },
+  {
+    "path": "howto/timerfd.txt",
+    "sha256": "56c15e9c3505e92000ef730ee895c0415d8a394b18faa92655b8e15838d6f974"
+  },
+  {
+    "path": "howto/unicode.txt",
+    "sha256": "2a0ef3bbcae13f0270cdc863b0f5b34a04fc29d50c6935ac7f5a4feda307411b"
+  },
+  {
+    "path": "howto/urllib2.txt",
+    "sha256": "a6163f79a0eca69a2f74658354d834003d70e603e44bbd84c9fe99cef71f151e"
+  },
+  {
+    "path": "library/argparse.txt",
+    "sha256": "674f09195e04cb03ae6cfe0aeb12acb626bdcfedcd457f9dbe1d7253dd6ff696"
+  },
+  {
+    "path": "library/asyncio-api-index.txt",
+    "sha256": "06fa6279a8a8c8d1a648e60b9311f047963d717220e6a3800f2216e2139a083a"
+  },
+  {
+    "path": "library/asyncio-dev.txt",
+    "sha256": "e40a36a0609f17bd5ae06b04ddc16fbc2272f0b8b3bb0ca140a73d2ea32c9133"
+  },
+  {
+    "path": "library/asyncio-eventloop.txt",
+    "sha256": "37bc90f527f0a6343b30243d74677c5a0197383ed52e7be224b248e6d5377341"
+  },
+  {
+    "path": "library/asyncio-exceptions.txt",
+    "sha256": "aeb42a40c4d3b8cae56aa7b3e2f2452a3194a816b96aabdb2c94d47bcff29fce"
+  },
+  {
+    "path": "library/asyncio-extending.txt",
+    "sha256": "d6646da9edd25f022f4a9053442c803d58a596a3394e3fb14ff592dddfa87110"
+  },
+  {
+    "path": "library/asyncio-future.txt",
+    "sha256": "ac75f6c412e3c5cd714180f41ad9f3abf872aff1f9d38bcca2b8995b2505be5e"
+  },
+  {
+    "path": "library/asyncio-graph.txt",
+    "sha256": "a8000b33ea14dead1eec4ecfec06a1fd4807941cf338ad7df3d654630e724061"
+  },
+  {
+    "path": "library/asyncio-llapi-index.txt",
+    "sha256": "7962375003de1a96b819fd25570a5aeb26b4cdfc1fd87a8a3785a92b56ece03e"
+  },
+  {
+    "path": "library/asyncio-platforms.txt",
+    "sha256": "5cfdab57d41b74d7e1ca61d473c7464b0199b673b6e06f4c5f3e1edbb5d5ff30"
+  },
+  {
+    "path": "library/asyncio-policy.txt",
+    "sha256": "67c96a26960616b8a18279ae61773e1baa339a63120609c71b86335bce6ddd5f"
+  },
+  {
+    "path": "library/asyncio-protocol.txt",
+    "sha256": "e4668d983ba373f012804d3d1ce04dd6839e6098c9f4341ef9ab05eb4df4079c"
+  },
+  {
+    "path": "library/asyncio-queue.txt",
+    "sha256": "9c78f4929af689b0d3c2f73a885a8640771df782a08747ff12bed36b7273c282"
+  },
+  {
+    "path": "library/asyncio-runner.txt",
+    "sha256": "8df7bd5715509dda4fadbc930b32080490cb34f979068e22f1dcd1a373c02b58"
+  },
+  {
+    "path": "library/asyncio-stream.txt",
+    "sha256": "3446f762a9f04424b51a2626db534a8a0de171c82f7f00889b81b34961e456c8"
+  },
+  {
+    "path": "library/asyncio-subprocess.txt",
+    "sha256": "55109581995a19984ed6750a13b5049db37e0f736ae352e49618a53f8d0ade40"
+  },
+  {
+    "path": "library/asyncio-sync.txt",
+    "sha256": "cfe12ed03a2442a15eccf212ae20dc92f6a15e027ca1980d1eb7ada92257d7a0"
+  },
+  {
+    "path": "library/asyncio-task.txt",
+    "sha256": "9b3353b84fcfb194e346d9ee69f1119faf67ea3ec37e6b8dc9f0cff1a0dc2758"
+  },
+  {
+    "path": "library/asyncio-threading.txt",
+    "sha256": "cfcd296effc43f7c45630a8b444b55b9c34a1a752a049a1de430708a5634069a"
+  },
+  {
+    "path": "library/asyncio-tools.txt",
+    "sha256": "2a47357496890123eb3f054b67c6bc771da9b4d5c93fa94962359bb76c0ea5f4"
+  },
+  {
+    "path": "library/collections.txt",
+    "sha256": "0f5e3c479c351de5405e7515eff86bd4a58477790261151017327a6f96458f99"
+  },
+  {
+    "path": "library/csv.txt",
+    "sha256": "f8af4e2504b0aeed787c5d42a5fb0bb0959fe8b886f7c1d153af9a50bc8da89a"
+  },
+  {
+    "path": "library/dataclasses.txt",
+    "sha256": "fefacfdbdb9e73e713b40987a2a22f0766b097980c86bda4f32dfc9eb372f175"
+  },
+  {
+    "path": "library/datetime.txt",
+    "sha256": "a34a11d11381084f0f1c1bee6f245518f80981ba798b4753ecc76de5ac1096d1"
+  },
+  {
+    "path": "library/functools.txt",
+    "sha256": "fc735c9f1face6b8b47afcd80236e7395bc477111cd239ba5cfe824501b9b8c6"
+  },
+  {
+    "path": "library/itertools.txt",
+    "sha256": "287dcc6e233cc21dd88c09588f2b614d373004bcc00ff065e17a12f760629092"
+  },
+  {
+    "path": "library/json.txt",
+    "sha256": "43d924fc33fee56d729e9821bd001f04f1a254b942c5298ab96eea341f2281de"
+  },
+  {
+    "path": "library/logging.txt",
+    "sha256": "6c92ca7e30a75f1a84eac9b3c65744d8266c359a915da2fce188288d2483737d"
+  },
+  {
+    "path": "library/multiprocessing.txt",
+    "sha256": "db3ecfe92a53d51b01baf2678e648f321965dd4502001833d9a4fb3324f2db3a"
+  },
+  {
+    "path": "library/os.txt",
+    "sha256": "a4be4959bf658cb1c925adec873ee2184b904cef4f7f034f2f2b9d4d7052c674"
+  },
+  {
+    "path": "library/pathlib.txt",
+    "sha256": "da18e56b4363fdaaddf5db43d83ad16b2fa41ddb1ce09c51cb932df32ce0aa71"
+  },
+  {
+    "path": "library/re.txt",
+    "sha256": "b168228439773383bdcfeb5752d87d6f32b31163cca4414b72ef3034b6dd3cdb"
+  },
+  {
+    "path": "library/sqlite3.txt",
+    "sha256": "e95576cbaac2cfcd7024834b5b7c7ffa16de26b4730fb7260b0b828b73b0e9d4"
+  },
+  {
+    "path": "library/subprocess.txt",
+    "sha256": "d1883b06115c4bb1a33385502c71873b1e0c3f88079e0122debddb4470589f53"
+  },
+  {
+    "path": "library/sys.txt",
+    "sha256": "1b987a746bae7cc3cf19d7d07c7194404cb9aa5f77798fb0ae850cd82b5b8696"
+  },
+  {
+    "path": "library/threading.txt",
+    "sha256": "3babb38d433ee0e10a01e1df24f5d451d30e0d10b7d6183e05f291832adc2133"
+  },
+  {
+    "path": "library/typing.txt",
+    "sha256": "ae4addbe5bce689684c63623895320edc1b630ee08e8d51420f8c5ae08f09d28"
+  },
+  {
+    "path": "library/unittest.txt",
+    "sha256": "d9a075731165ca5d19e80501c0c4dbfa2f6736d68b17a48242ff75d78c69e570"
+  },
+  {
+    "path": "tutorial/appendix.txt",
+    "sha256": "9903f9219652be15b699d279fb00bf0f469146a59d965af96f73935f7c5b6a49"
+  },
+  {
+    "path": "tutorial/appetite.txt",
+    "sha256": "89ef124ae698b3205ba90b90622713bf692158e38cade640b38091c63caf4f1b"
+  },
+  {
+    "path": "tutorial/classes.txt",
+    "sha256": "f2cf81a71c449ede6cd2425221f274e7d5fcf784ec41830d75da0b77e5c9e5df"
+  },
+  {
+    "path": "tutorial/controlflow.txt",
+    "sha256": "24baf5dcc8902a2340efe633434d29b1ea4903c09bc91630847fe6a80fd97af4"
+  },
+  {
+    "path": "tutorial/datastructures.txt",
+    "sha256": "c80eeb9605dddca2ed02dc555ccd299376677672f0d4770c86d1b4601b2f2f28"
+  },
+  {
+    "path": "tutorial/errors.txt",
+    "sha256": "130935952b23ce0b7bf2ebacb987b83a662182db86a3e3330a3ed3dfb8787198"
+  },
+  {
+    "path": "tutorial/floatingpoint.txt",
+    "sha256": "783ed86151eb1fcc1b1c2d8241a510698289d544359004c9f9d9cdba0557e894"
+  },
+  {
+    "path": "tutorial/index.txt",
+    "sha256": "a9513d6345b055c7173694b4b5b29861d5e76717ea5fbf43bc69fa4470358b1a"
+  },
+  {
+    "path": "tutorial/inputoutput.txt",
+    "sha256": "19864501423f20365b120c266df5667a1020067c46df6b57d8cc934992e46609"
+  },
+  {
+    "path": "tutorial/interactive.txt",
+    "sha256": "23e3bbcdc4fdebc340182cffb325fdfb023dc010adb0561c68c4869b421e1e90"
+  },
+  {
+    "path": "tutorial/interpreter.txt",
+    "sha256": "7fc1528ec3f706f6faccd01c63f4bea5f63011517ca6adc1de6198c1306e987a"
+  },
+  {
+    "path": "tutorial/introduction.txt",
+    "sha256": "3b2b3ee6a51fa0ab05a53dad40764f2c989d4b295dbb7048ebfafb263b3be697"
+  },
+  {
+    "path": "tutorial/modules.txt",
+    "sha256": "e7fa8fa6b8818795a67da82496490ba9ba3cfdb8082d9ffabc98d58ab36dfbbf"
+  },
+  {
+    "path": "tutorial/stdlib.txt",
+    "sha256": "d26eb8238a453878746515c1490cd898935eda31172d9db22e250246962dcf5b"
+  },
+  {
+    "path": "tutorial/stdlib2.txt",
+    "sha256": "3212dcf77e186d4e99d8eb4ac98e3054fb2d6c27c40684c82e202c9d8d934f98"
+  },
+  {
+    "path": "tutorial/venv.txt",
+    "sha256": "bbfe8fe6247c7e8c587d549bec1a0096cc6a2128e69d1948a6f2cffc9e014003"
+  },
+  {
+    "path": "tutorial/whatnow.txt",
+    "sha256": "a4b63da1a3e5f2aa5eee0a71b5d8050681da712bb5d0ea1e3f533ee46a8cd911"
+  }
+]

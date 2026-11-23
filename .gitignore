@@ -1,0 +1,12 @@
+/data/
+/vector_store/
+/eval/results/*
+!/eval/results/.gitkeep
+/.venv/
+/work/
+/outputs/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+chroma.sqlite3*

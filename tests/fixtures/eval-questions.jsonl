@@ -1,0 +1,5 @@
+{"id":"sample-01","question":"What is the workshop's tool locker combination?","reference_answer":"7319","source_ids":["operations.md:0"],"type":"factual"}
+{"id":"sample-02","question":"Where do visitors sign in?","reference_answer":"At the blue kiosk.","source_ids":["visitors.txt"],"type":"factual"}
+{"id":"sample-03","question":"What time does parking close?","reference_answer":"7 p.m.","source_ids":["parking.pdf"],"type":"factual"}
+{"id":"sample-04","question":"Where do visitors sign in and when does parking close?","reference_answer":"Visitors sign in at the blue kiosk, and parking closes at 7 p.m.","source_ids":["visitors.txt","parking.pdf"],"type":"multi_chunk"}
+{"id":"sample-05","question":"What is the workshop's annual operating budget?","reference_answer":"","source_ids":[],"type":"unanswerable"}
