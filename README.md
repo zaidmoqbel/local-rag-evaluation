@@ -44,7 +44,7 @@ flowchart LR
    uv run python -m rag.cli ask "What does the guide say about temporary files?"
    ```
 
-   When the virtual environment is active, the same commands work without `uv run`. To use a different corpus or store, pass `--config path/to/config.yaml` before the subcommand. Relative paths resolve from that YAML file.
+   When the virtual environment is active, the same commands work without `uv run`. To use a different corpus or store, pass `--config path/to/config.yaml` before the subcommand. Relative paths resolve from that YAML file.`
 
 ## Local API and UI
 
