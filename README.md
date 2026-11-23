@@ -2,6 +2,12 @@
 
 Ask questions about local PDF, Markdown, and plain-text documents and inspect the passages cited in each answer.
 
+## Demo
+
+![Streamlit answers a Python question, then shows its cited passage and retrieval scores](docs/demo.gif)
+
+## Architecture
+
 ```mermaid
 flowchart LR
     UI[Streamlit UI] --> API[FastAPI]
